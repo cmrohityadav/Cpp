@@ -13,8 +13,8 @@ bool sortfun(int arr[],int n){
 }
 int main()
 {
-    int n;
-    cin>>n;
+    int n; 
+    cin>>n; //array ka size
     int arr[n];
     for (int i = 0; i < n; i++)
     {
